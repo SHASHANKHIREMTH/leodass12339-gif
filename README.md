@@ -3,7 +3,7 @@
 
 💻 CODE. CREATE. INNOVATE.
 
-🔭 I am  currently working on developing our own website.<br><br>👯 We're looking to collaborate on exciting web development projects.<br><br>🤝 I am  looking to improve our website development and coding skills.<br><br>🌱 I am currently learning web development and exploring new technologies.<br><br>💬 Ask us about our website project and web development.<br><br>⚡ Fun fact: We're a team of passionate learners building our own website from scratch!<br><br> ## 🎓 Education<br><br>🏫 College: Anuvartik Mirji Bhartesh Engineering<br><br>💻 Course: Computer Science and Engineering (CSE)<br><br>📚 Year: 2nd Engineering  Year<br><br>🌱 Currently learning programming, data structures, and web development while building my own website.
+🔭 I am  currently working on developing our own website.<br><br>👯 We're looking to collaborate on exciting web development projects.<br><br>🤝 I am  looking to improve our website development and coding skills.<br><br>🌱 I am currently learning web development and exploring new technologies.<br><br>💬 Ask us about our website project and web development.<br><br>⚡ Fun fact: We're a team of passionate learners building our own website from scratch!<br><br> ## 🎓 Education<br><br>🏫 College: Anuvartik Mirji Bhartesh Engineering<br><br>💻 Course: Computer Science and Engineering (CSE)<br><br>📚 Year: 2nd Year in Engineering  <br><br>🌱 Currently learning programming, data structures, and web development while building my own website.
 
 
 ## 🌐 Socials:
